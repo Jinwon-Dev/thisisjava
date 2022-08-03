@@ -8,4 +8,4 @@ Java 세미나를 진행하면서 공부한 내용을 기록합니다.
 
 - Chapter 1 : [자바 시작하기](https://jinwonyoon.notion.site/Chapter-1-83b725ad8aaf460db5aa32783b86d17b)
 - Chapter 2 : [변수와 타입](https://jinwonyoon.notion.site/Chapter-2-a1923b7294ca473b86ef8387d65cf4c1)
-- Chapter 3 : [연산자]
+- Chapter 3 : [연산자](https://jinwonyoon.notion.site/Chapter-3-f960e45f7db84ae99694ac0306b677f1)
