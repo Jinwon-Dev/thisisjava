@@ -15,3 +15,5 @@ Java 세미나를 진행하면서 공부한 내용을 기록합니다.
 - Chapter 4 : [조건문과 반복문](https://jinwonyoon.notion.site/Chapter-4-eb2f69b1bc2d4c59aa67df164a5d94e0)
 
 - Chapter 5 : [참조 타입](https://jinwonyoon.notion.site/Chapter-5-0f5d645d4adc485eb6184bc69cf06ac1)
+
+- Chapter 6 : [클래스](https://jinwonyoon.notion.site/Chapter-6-a3c789fb7bf546ef913b4a3c295b6b99)
