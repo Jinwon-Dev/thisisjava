@@ -17,3 +17,5 @@ Java 세미나를 진행하면서 공부한 내용을 기록합니다.
 - Chapter 5 : [참조 타입](https://jinwonyoon.notion.site/Chapter-5-0f5d645d4adc485eb6184bc69cf06ac1)
 
 - Chapter 6 : [클래스](https://jinwonyoon.notion.site/Chapter-6-a3c789fb7bf546ef913b4a3c295b6b99)
+
+- Chapter 7 : [상속](https://jinwonyoon.notion.site/Chapter-7-f91585c5d21b4e94ba5772372ca149b4)
