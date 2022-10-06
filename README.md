@@ -21,3 +21,7 @@ Java 세미나를 진행하면서 공부한 내용을 기록합니다.
 - Chapter 7 : [상속](https://jinwonyoon.notion.site/Chapter-7-f91585c5d21b4e94ba5772372ca149b4)
 
 - Chapter 8 : [인터페이스](https://jinwonyoon.notion.site/Chapter-8-e4cefbd1d09e4a1794f377b188261fad)
+
+- Chapter 9 : [중첩 클래스 / 인터페이스](https://jinwonyoon.notion.site/Chapter-9-ec03de6c70494feca0db24cfd2ea51c7)
+
+- Chapter 10 : [예외 처리](https://jinwonyoon.notion.site/Chapter-10-2343c8c44aad4e27845c4cd6e661cf91)
