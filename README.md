@@ -1,27 +1,29 @@
 # thisisjava
-Java ì„¸ë¯¸ë‚˜ë¥¼ ì§„í–‰í•˜ë©´ì„œ ê³µë¶€í•œ ë‚´ìš©ì„ ê¸°ë¡í•©ë‹ˆë‹¤.
+Java ¼¼¹Ì³ª¸¦ ÁøÇàÇÏ¸é¼­ °øºÎÇÑ ³»¿ëÀ» ±â·ÏÇÕ´Ï´Ù.
 
-êµì¬ëŠ” *ì´ê²ƒì´ ìë°”ë‹¤(ì‹ ìš©ê¶Œ)* ì„ ì‚¬ìš©í•˜ë©° ë§¤ì£¼ ì •ë¦¬í•˜ì—¬ ì €ì¥í•©ë‹ˆë‹¤.
+±³Àç´Â *ÀÌ°ÍÀÌ ÀÚ¹Ù´Ù(½Å¿ë±Ç)* À» »ç¿ëÇÏ¸ç ¸ÅÁÖ Á¤¸®ÇÏ¿© ÀúÀåÇÕ´Ï´Ù.
 
 -----
-ì§ì ‘ ì‹¤ìŠµí•œ ì½”ë“œëŠ” [Github](https://github.com/Jinwon-Dev/thisisjava)ì— ì €ì¥í•˜ë©°, ì •ë¦¬í•œ ë‚´ìš©ì€ [Notion](https://jinwonyoon.notion.site/Java-2022-aa0fc9e7b65343fe80421d52539649ea)ì— ê¸°ë¡í•©ë‹ˆë‹¤.
+Á÷Á¢ ½Ç½ÀÇÑ ÄÚµå´Â [Github](https://github.com/Jinwon-Dev/thisisjava)¿¡ ÀúÀåÇÏ¸ç, Á¤¸®ÇÑ ³»¿ëÀº [Notion](https://jinwonyoon.notion.site/Java-2022-aa0fc9e7b65343fe80421d52539649ea)¿¡ ±â·ÏÇÕ´Ï´Ù.
 
-- Chapter 1 : [ìë°” ì‹œì‘í•˜ê¸°](https://jinwonyoon.notion.site/Chapter-1-83b725ad8aaf460db5aa32783b86d17b)
+- Chapter 1 : [ÀÚ¹Ù ½ÃÀÛÇÏ±â](https://jinwonyoon.notion.site/Chapter-1-83b725ad8aaf460db5aa32783b86d17b)
 
-- Chapter 2 : [ë³€ìˆ˜ì™€ íƒ€ì…](https://jinwonyoon.notion.site/Chapter-2-a1923b7294ca473b86ef8387d65cf4c1)
+- Chapter 2 : [º¯¼ö¿Í Å¸ÀÔ](https://jinwonyoon.notion.site/Chapter-2-a1923b7294ca473b86ef8387d65cf4c1)
 
-- Chapter 3 : [ì—°ì‚°ì](https://jinwonyoon.notion.site/Chapter-3-f960e45f7db84ae99694ac0306b677f1)
+- Chapter 3 : [¿¬»êÀÚ](https://jinwonyoon.notion.site/Chapter-3-f960e45f7db84ae99694ac0306b677f1)
 
-- Chapter 4 : [ì¡°ê±´ë¬¸ê³¼ ë°˜ë³µë¬¸](https://jinwonyoon.notion.site/Chapter-4-eb2f69b1bc2d4c59aa67df164a5d94e0)
+- Chapter 4 : [Á¶°Ç¹®°ú ¹İº¹¹®](https://jinwonyoon.notion.site/Chapter-4-eb2f69b1bc2d4c59aa67df164a5d94e0)
 
-- Chapter 5 : [ì°¸ì¡° íƒ€ì…](https://jinwonyoon.notion.site/Chapter-5-0f5d645d4adc485eb6184bc69cf06ac1)
+- Chapter 5 : [ÂüÁ¶ Å¸ÀÔ](https://jinwonyoon.notion.site/Chapter-5-0f5d645d4adc485eb6184bc69cf06ac1)
 
-- Chapter 6 : [í´ë˜ìŠ¤](https://jinwonyoon.notion.site/Chapter-6-a3c789fb7bf546ef913b4a3c295b6b99)
+- Chapter 6 : [Å¬·¡½º](https://jinwonyoon.notion.site/Chapter-6-a3c789fb7bf546ef913b4a3c295b6b99)
 
-- Chapter 7 : [ìƒì†](https://jinwonyoon.notion.site/Chapter-7-f91585c5d21b4e94ba5772372ca149b4)
+- Chapter 7 : [»ó¼Ó](https://jinwonyoon.notion.site/Chapter-7-f91585c5d21b4e94ba5772372ca149b4)
 
-- Chapter 8 : [ì¸í„°í˜ì´ìŠ¤](https://jinwonyoon.notion.site/Chapter-8-e4cefbd1d09e4a1794f377b188261fad)
+- Chapter 8 : [ÀÎÅÍÆäÀÌ½º](https://jinwonyoon.notion.site/Chapter-8-e4cefbd1d09e4a1794f377b188261fad)
 
-- Chapter 9 : [ì¤‘ì²© í´ë˜ìŠ¤ / ì¸í„°í˜ì´ìŠ¤](https://jinwonyoon.notion.site/Chapter-9-ec03de6c70494feca0db24cfd2ea51c7)
+- Chapter 9 : [ÁßÃ¸ Å¬·¡½º / ÀÎÅÍÆäÀÌ½º](https://jinwonyoon.notion.site/Chapter-9-ec03de6c70494feca0db24cfd2ea51c7)
 
-- Chapter 10 : [ì˜ˆì™¸ ì²˜ë¦¬](https://jinwonyoon.notion.site/Chapter-10-2343c8c44aad4e27845c4cd6e661cf91)
+- Chapter 10 : [¿¹¿Ü Ã³¸®](https://jinwonyoon.notion.site/Chapter-10-2343c8c44aad4e27845c4cd6e661cf91)
+
+- Chapter 12 : [¸ÖÆ¼ ½º·¹µå](https://jinwonyoon.notion.site/Chapter-12-89e65d5688274eb790bb604f29dd86c6)
