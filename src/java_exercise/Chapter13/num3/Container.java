@@ -1,0 +1,21 @@
+package java_exercise.Chapter13.num3;
+
+public class Container<K, V> {
+    private K key;
+    private V value;
+
+    public K getKey() {
+        return this.key;
+    }
+
+    public V getValue() {
+        return this.value;
+    }
+
+    public void set(K key, V value) {
+        this.key = key;
+        this.value = value;
+    }
+}
+
+
