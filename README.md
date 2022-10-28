@@ -27,3 +27,5 @@ Java 세미나를 진행하면서 공부한 내용을 기록합니다.
 - Chapter 10 : [예외 처리](https://jinwonyoon.notion.site/Chapter-10-2343c8c44aad4e27845c4cd6e661cf91)
 
 - Chapter 12 : [멀티 스레드](https://jinwonyoon.notion.site/Chapter-12-89e65d5688274eb790bb604f29dd86c6)
+
+- Chapter 13 : [제네릭](https://jinwonyoon.notion.site/Chapter-13-b958ee0423aa470f8183896ead2fed9c)
