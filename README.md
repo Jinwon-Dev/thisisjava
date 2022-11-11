@@ -31,3 +31,5 @@ Java 세미나를 진행하면서 공부한 내용을 기록합니다.
 - Chapter 13 : [제네릭](https://jinwonyoon.notion.site/Chapter-13-b958ee0423aa470f8183896ead2fed9c)
 
 - Chapter 14 : [람다식](https://jinwonyoon.notion.site/Chapter-14-a06d3526594142e095c86dc7913f9170)
+
+- Chapter 15 : [컬렉션 프레임워크](https://jinwonyoon.notion.site/Chapter-15-c90e7fb23b654687ad58761f0ba34426)
